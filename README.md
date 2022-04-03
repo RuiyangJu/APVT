@@ -22,6 +22,5 @@
 
 ## References
 * [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
-* [PVT](https://github.com/whai362/PVT)
 * [CIFAR-10](https://github.com/soapisnotfat/pytorch-cifar10)
 * [mmdetection](https://github.com/open-mmlab/mmdetection)
