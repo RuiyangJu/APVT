@@ -1,24 +1,24 @@
 # APVT
 ### [Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions](https://arxiv.org/abs/2203.00960)
 <p align="center">
-  <img src="Img/architecture" width="640" title="APVT">
+  <img src="Img/architecture.pdf" width="640" title="APVT">
 </p>
 
 ## Image Classification
 ### #Params tested by [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
 ### CIFAR-10 tested by [Code](https://github.com/soapisnotfat/pytorch-cifar10)
 <p align="center">
-  <img src="Img/image_classification" width="480" title="image_classification">
+  <img src="Img/image_classification.pdf" width="480" title="image_classification">
 </p>
 
 ## Object Detection
 ### Method: RetinaNet, Epoch: 12 [mmdetection](https://github.com/open-mmlab/mmdetection)
 <p align="center">
-  <img src="object_detecion_eval1" width="480" title="object_detecion_eval1">
+  <img src="object_detecion_eval1.png" width="480" title="object_detecion_eval1">
 </p>
 
 <p align="center">
-  <img src="object_detecion_eval2" width="480" title="object_detecion_eval2">
+  <img src="object_detecion_eval2.png" width="480" title="object_detecion_eval2">
 </p>
 
 ### References
