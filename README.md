@@ -12,7 +12,8 @@
 </p>
 
 ## Object Detection
-### Method: RetinaNet, Epoch: 12 [mmdetection](https://github.com/open-mmlab/mmdetection)
+### Method: RetinaNet, Epoch: 12 
+### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
 <p align="center">
   <img src="object_detecion_eval1.png" width="480" title="object_detecion_eval1">
 </p>
