@@ -16,7 +16,7 @@
 ### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
 <p align="center">
   <img src="Img/object_detecion_eval1.png" width="360" title="object_detecion_eval1">
-  <img src="Img/object_detecion_eval2.png" width="360" title="object_detecion_eval2">
+  <img src="Img/object_detecion_eval2.png" width="320" title="object_detecion_eval2">
 </p>
 
 ## References
