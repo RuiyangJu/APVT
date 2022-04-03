@@ -7,6 +7,12 @@
 ## Image Classification
 #### #Params tested by [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
 #### CIFAR-10 tested by [Code](https://github.com/soapisnotfat/pytorch-cifar10)
+#### Hyperparameters
+- epochs 60
+- initial lr = 5e-4
+- batch size = 128
+- optimizer = AdamW
+- MultiStepLR = （[30,60], gamma=0.1）
 <p align="center">
   <img src="Img/image_classification.jpg" width="640" title="image_classification">
 </p>
