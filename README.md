@@ -8,7 +8,7 @@
 ### #Params tested by [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
 ### CIFAR-10 tested by [Code](https://github.com/soapisnotfat/pytorch-cifar10)
 <p align="center">
-  <img src="Img/image_classification.jpg" width="480" title="image_classification">
+  <img src="Img/image_classification.jpg" width="640" title="image_classification">
 </p>
 
 ## Object Detection
