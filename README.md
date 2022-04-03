@@ -15,7 +15,7 @@
 #### Method: RetinaNet, Epoch: 12 
 #### Dataset: [COCO 2017](https://cocodataset.org/#download) 
 #### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
-#### Result
+#### Result:
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.168 
  
  Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=1000 ] = 0.272
@@ -40,7 +40,7 @@
  
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=1000 ] = 0.532
  
- #### test
+ #### eval:
 <p align="center">
   <img src="Img/object_detecion_eval1.png" width="360" title="object_detecion_eval1">
   <img src="Img/object_detecion_eval2.png" width="360" title="object_detecion_eval2">
