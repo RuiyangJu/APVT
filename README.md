@@ -1,5 +1,5 @@
-# APVT
-## [Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions](https://arxiv.org/abs/2203.00960)
+# Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions
+### [Aggregated Pyramid Vision Transformer](https://arxiv.org/abs/2203.00960)
 <p align="center">
   <img src="Img/architecture.jpg" width="1024" title="APVT">
 </p>
@@ -17,7 +17,7 @@
 #### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
 <p align="center">
   <img src="Img/object_detecion_eval1.png" width="360" title="object_detecion_eval1">
-  <img src="Img/object_detecion_eval2.png" width="320" title="object_detecion_eval2">
+  <img src="Img/object_detecion_eval2.png" width="360" title="object_detecion_eval2">
 </p>
 
 ## References
