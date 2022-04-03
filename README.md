@@ -4,14 +4,14 @@
   <img src="Img/architecture.jpg" width="1024" title="APVT">
 </p>
 
-## Image Classification
+# Image Classification
 ### #Params tested by [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
 ### CIFAR-10 tested by [Code](https://github.com/soapisnotfat/pytorch-cifar10)
 <p align="center">
   <img src="Img/image_classification.jpg" width="640" title="image_classification">
 </p>
 
-## Object Detection
+# Object Detection
 ### Method: RetinaNet, Epoch: 12 
 ### Dataset: [COCO 2017](https://cocodataset.org/#download) 
 ### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
@@ -20,7 +20,7 @@
   <img src="Img/object_detecion_eval2.png" width="320" title="object_detecion_eval2">
 </p>
 
-## References
+# References
 * [OpCounter](https://github.com/Lyken17/pytorch-OpCounter)
 * [PVT](https://github.com/whai362/PVT)
 * [CIFAR-10](https://github.com/soapisnotfat/pytorch-cifar10)
