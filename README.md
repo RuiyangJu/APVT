@@ -15,7 +15,7 @@
 #### Method: RetinaNet, Epoch: 12 
 #### Dataset: [COCO 2017](https://cocodataset.org/#download) 
 #### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
-#### Result:
+#### result:
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.168 
  
  Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=1000 ] = 0.272
