@@ -15,11 +15,11 @@
 ### Method: RetinaNet, Epoch: 12 
 ### Code by [mmdetection](https://github.com/open-mmlab/mmdetection)
 <p align="center">
-  <img src="object_detecion_eval1.png" width="480" title="object_detecion_eval1">
+  <img src="Img/object_detecion_eval1.png" width="480" title="object_detecion_eval1">
 </p>
 
 <p align="center">
-  <img src="object_detecion_eval2.png" width="480" title="object_detecion_eval2">
+  <img src="Img/object_detecion_eval2.png" width="480" title="object_detecion_eval2">
 </p>
 
 ### References
