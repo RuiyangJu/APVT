@@ -1,6 +1,5 @@
 # Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions
-### ！！！ APVT model code will be updated later  ！！！
-### [Aggregated Pyramid Vision Transformer](https://arxiv.org/abs/2203.00960)
+### ！！！ APVT model code will be updated later  ！！！ [Paper](https://arxiv.org/abs/2203.00960)
 <p align="center">
   <img src="Img/architecture.jpg" width="1024" title="APVT">
 </p>
