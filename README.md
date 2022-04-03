@@ -1,7 +1,7 @@
 # APVT
 ### [Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions](https://arxiv.org/abs/2203.00960)
 <p align="center">
-  <img src="Img/architecture.jpg" width="720" title="APVT">
+  <img src="Img/architecture.jpg" width="1024" title="APVT">
 </p>
 
 ## Image Classification
